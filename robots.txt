@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ftextere.github.io/sitemap.html.gz
+Sitemap: https://ftextere.github.io/app/sitemap.html.gz
+Sitemap: https://ftextere.github.io/assets/sitemap.html.gz
+Sitemap: https://ftextere.github.io/css/sitemap.html.gz
+Sitemap: https://ftextere.github.io/includes/sitemap.html.gz
+Sitemap: https://ftextere.github.io/item/sitemap.html.gz
+Sitemap: https://ftextere.github.io/src/sitemap.html.gz
